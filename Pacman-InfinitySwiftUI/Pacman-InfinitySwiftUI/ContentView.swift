@@ -118,7 +118,6 @@ struct PathInfinity: View {
                 }
         }
         .padding(20)
-        .navigationBarTitle("Example 9")
 
     }
 }
